@@ -1,0 +1,21 @@
+text,label
+"Urgent: Your account has been compromised. Please click here to reset your password immediately",phish
+"Hello, are we still meeting for lunch at 1 PM tomorrow?",ham
+"Dear Customer, your bank account will be suspended. Verify your identity at http://secure-bank-login.com",phish
+"The project report is attached. Please review it by Friday.",ham
+"CONGRATULATIONS! You have won a $1000 Gift Card. Claim your prize now!",phish
+"Hey, can you send me the notes from yesterday's lecture?",ham
+"Your Amazon order #12345 has been shipped. Track your package here.",ham
+"Security Alert: Unusual login attempt from Russia. Click here to secure your account.",phish
+"Meeting rescheduled to 3 PM. See you then.",ham
+"URGENT: Your Netflix subscription has expired. Update payment details to avoid interruption.",phish
+"Can you check the latest version of the code on GitHub?",ham
+"Dear User, your email password will expire in 24 hours. Change it now at our portal.",phish
+"Lunch today? I'm thinking pizza.",ham
+"Final Warning: Your tax refund is waiting. Fill out the form to receive your money.",phish
+"The weather is great today, let's go for a walk.",ham
+"Your iCloud storage is full. Upgrade now to prevent data loss.",phish
+"Please find the invoice for last month's services attached.",ham
+"Verification Required: Your account has been flagged for suspicious activity. Log in to resolve.",phish
+"Don't forget the team meeting tomorrow morning.",ham
+"You have a new message from your bank's security department. Open immediately.",phish
